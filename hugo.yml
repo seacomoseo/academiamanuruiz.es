@@ -1,10 +1,10 @@
-baseURL: https://sansoul.netlify.app
+baseURL: https://academiamanuruiz.es
 buildFuture: true
 theme: [sansoul]
 params:
-  git_url: ''
-  netlify_name: ''
-  netlify_id: ''
-  hook: NjMwMmJjOWExZjZiNGI2Zjk2YmJjMDVh
-  drive_link: ''
-  drive_mails: ''
+  git_url: https://github.com/seacomoseo/academiamanuruiz.es
+  netlify_name: academiamanuruiz
+  netlify_id: 25b94628-0abf-4f79-9bbc-13e1bf4266a0
+  hook: NjZkMzI1YmQxNWQyNDgyNDMxMjM2YjAyCg==
+  drive_link: https://drive.google.com/file/d/1X1EMP5jKkb0Fx3BdWOL3u482QlkJis_j
+  drive_mails: mnllznrz.mlr@gmail.com
