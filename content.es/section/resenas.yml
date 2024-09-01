@@ -1,16 +1,14 @@
 name: Reseñas
 title: Reseñas
-subtitle: ¿Qué dicen de nosotros?
-icon: comment
+subtitle: de nuestros alumnos
 review:
   columns: 3
-  color: white
+  color: dark
+  alpha: .5
   slider: true
   interval: 8
 reviews:
 - title: Lorem I.
-  subtitle: Beatae Vitae
-  image: https://images.unsplash.com/photo-1628157588553-5eeea00af15c?fit=crop&w=144&q=60
   description: |
     Sed ut perspiciatis unde omnis iste natus error sit voluptatem.
 
@@ -20,8 +18,6 @@ reviews:
 
     Explicabo.
 - title: Sequi N.
-  subtitle: Ratione Voluptatem
-  image: https://images.unsplash.com/photo-1519699047748-de8e457a634e?fit=crop&w=144&q=60
   description: |
     Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut.
 
@@ -29,8 +25,6 @@ reviews:
 
     Sequi nesciunt.
 - title: Quaerat V.
-  subtitle: Magnam Aliquam
-  image: https://images.unsplash.com/photo-1620293023555-272e1a661b26?fit=crop&w=144&q=60
   description: |
     Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet,.
 
@@ -39,8 +33,4 @@ reviews:
     Incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
 boxes:
 - description: |
-    ¡Hay más aquí! ¡Añade la tuya!
-    {.subtitle}
-
-    [btn icon-star Google](https://g.page/r/CQI3T3wmeAB6EBM/review "noindex")
-    [btn icon-star Facebook](https://www.facebook.com/QuantumFracture/reviews/ "noindex")
+    [btn icon-google Más en Google](https://g.page/r/CafZvI4bJRWJEBM/review "noindex")

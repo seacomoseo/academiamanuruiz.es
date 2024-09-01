@@ -1,17 +1,13 @@
 name: Cabecera
-hanchor: SanSoul Hugo Theme
-color: main-dark
-bg: fondo.jpg
+hanchor: Clases de Bachata y Salsa en Ceuta 💃🏻🕺🏻 Academia de Baile Manu Ruiz
 full: true
 boxes:
 - image: base/logo.svg
-  span: .125
+  span: .25
   span_min: .5
-- title: SanSoul Hugo Theme
+- title: Clases de <br> Bachata y Salsa
   hn: p
   hs: 0
-  subtitle: SanSoul es un tema de Hugo con alma para webs de servicios por lorensansol
+  subtitle: Academia de Baile
   description: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-    [btn icon-plus Más](#nosotros)
+    [btn icon-plus Más](#clases)

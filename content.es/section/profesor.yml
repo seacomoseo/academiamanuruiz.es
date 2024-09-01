@@ -1,0 +1,24 @@
+name: Profesor
+title: Profesor
+subtitle: Manu Ruiz
+box:
+  columns: 0
+  gap: 5
+boxes:
+- order: 2
+  image: manu-ruiz.png
+  parallax: box
+- order: 1
+  align: left
+  align_max: right
+  align_y: center
+  description: |
+    Me presento, soy Manu Ruiz, un apasionado profesor de salsa y bachata, con más de 20 años de experiencia en la enseñanza de bailes latinos. Mis raíces cubanas, heredadas de mi madre, han sido una fuente constante de inspiración en mi vida y en mi carrera. Desde que era pequeño, la música y el ritmo han estado presentes en mi casa, llenando mis días con los vibrantes sonidos de la salsa, la bachata, el chachachá, el merengue,  rumba afro, entre otros.
+
+    La danza no solo es una forma de expresión para mí, sino también una manera de conectar con mis raíces y compartir la alegría de la cultura latina. A lo largo de los años, he tenido el privilegio de enseñar a personas de todas las edades y niveles, ayudándoles a descubrir el placer de bailar y a disfrutar de la música que tanto amo.
+
+    En mis clases, busco crear un ambiente acogedor y divertido, donde cada alumno pueda sentirse libre de expresarse y aprender a su propio ritmo. Mi objetivo es que cada uno de mis estudiantes no solo aprenda los pasos, sino que también sienta la energía y la pasión que caracterizan a los bailes latinos.
+
+    Te invito a unirte a mí en este viaje lleno de ritmo, alegría y conexión cultural.
+
+    ¡Espero verte pronto en nuestras clases y eventos de baile!

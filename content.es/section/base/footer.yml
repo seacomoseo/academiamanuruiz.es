@@ -1,5 +1,8 @@
 name: Pie
-divider: curve-side
+divider: brush
+color: black
+gradient: dark
+gradient_type: linear-b
 description: |
   - icon-copyright      {{< internal-link index >}}
   - icon-scale-balanced {{< internal-link legal >}}

@@ -1,41 +1,37 @@
 ---
 title: Inicio
-seo: ''
+seo: Clases de Bachata y Salsa en Ceuta 💃🏻🕺🏻 Academia de Baile Manu Ruiz
 slug: inicio
-description: llll➤ SanSoul es un tema de Hugo con alma para webs de servicios ✅ por lorensansol ☎️ 123 456 789.
-image: fondo.jpg
+description: ll➤ La mejor academia de baile cerca de ti en Ceuta. 🪇 Clases de bachata, salsa en línea y cubana. ¡Para todos los niveles, adultos y niños! ☎️ 744 733 534
+image: base/icon.svg
 translationKey: home
 
+background:
+  color: black
+  gradient: dark
+  gradient_type: radial-alt
+  bg: fondo.svg
+  parallax: fix
 menu:
   logo: false
   sticky: auto
-  size: ''
+  size: sm
   show_sections: true
   show_modals: true
 callnow:
   show: auto
 section:
-- underline: true
+- size: lg
+  underline: true
   uppercase: true
-  alpha: .7
-  parallax: fix
-  divider: curve-side
-  flip_x: false
-  flip_y: false
-- color: white
-  flip_x: true
-  flip_y: true
 
 sections:
 - file: _header
-- file: nosotros
-- file: servicios
-  modals:
-  - file: ejemplo
-- file: proceso
-- file: fotos
-- file: noticias
-- file: faq
+- file: clases
+- file: videos
+- file: horarios
+- file: precios
+- file: profesor
 - file: resenas
 - file: contacto
 - file: mapa

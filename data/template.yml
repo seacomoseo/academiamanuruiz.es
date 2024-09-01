@@ -1,8 +1,9 @@
 background:
-  color: light
+  color: dark
 menu:
   logo: true
   logo_align: center
+  color: dark
   transparent: true
   size: sm
 lists:

@@ -2,34 +2,33 @@ types:
 - LocalBusiness
 - Organization
 names:
-- Tema SanSoul de Hugo EJEMPLO
-- SanSoul
-description: SanSoul es el alma del tema Hugo de lorensansol con el que generar sitios web estáticos, puedes copiarlo y usarlo como quieras
-legal: null
-nif: null
-logo: base/logo.svg
-images:
-- fondo.jpg
+- Academia Manu Ruiz
+- Academia de Baile Manu Ruiz
+- Clases de Bachata y Salsa Botánico
+- Clases de Bachata y Salsa en Ceuta
+- Clases de Bachata en Ceuta
+- Clases de Salsa en Ceuta
+description: La mejor academia de baile cerca de ti en Ceuta. 🪇 Clases de bachata, salsa en línea y cubana. ¡Para todos los niveles, adultos y niños!
+legal: Lucio Manuel Lozano Ruiz
+nif: 76087541-E
+logo: base/icon.svg
+images: []
 social:
-- https://www.facebook.com/QuantumFracture
-- https://www.instagram.com/quantumfracture/
-- https://g.page/r/CQI3T3wmeAB6EBM
+- https://www.instagram.com/manuruiz.oficial/
+- https://g.page/r/CafZvI4bJRWJEBM
 phones:
-- 123456789
-- +34 987 654 321
+- 744 733 534
 address:
   name: Sea Como SEO
-  street: Ronda de Levante, 1
-  pc: 30008
-  locality: Murcia
-  region: Murcia
+  street: Av. Compañía de Mar
+  pc: '51001'
+  locality: Ceuta
+  region: Ceuta
   country: ES
-  geo: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
-  link: https://g.page/r/CQI3T3wmeAB6EBM
+  geo: '{"type":"Point","coordinates":[-5.311795,35.888918]}'
+  link: https://g.page/r/CafZvI4bJRWJEBM
 areas:
-- Región de Murcia
-- Internacional
-- Online
+- Ceuta
 open:
 - days:
   - monday
@@ -37,31 +36,21 @@ open:
   - wednesday
   - thursday
   - friday
-  opens: 9:00
-  closes: 14:00
-- days:
-  - monday
-  - tuesday
-  - wednesday
-  - thursday
-  - friday
-  opens: 17:00
-  closes: 20:00
-- days:
   - saturday
-  # - sunday
-  opens: 9:00
-  closes: 13:00
+  - sunday
+  opens: 10:00
+  closes: 22:00
 prices: €€
 services:
-- title: Diseño Web
-  description: null
-  price: 800.00
-  area: Internacional
-- title: SEO
-  description: null
-  price: 250.00
-  area: Internacional
-- title: SEM
-  description: Descripción de ejemplo
-  area: Internacional
+- title: Clases de Bachata
+  price: 35
+  area: Ceuta
+- title: Clases de Salsa
+  price: 35
+  area: Ceuta
+- title: Clases de Salsa Cubana
+  price: 35
+  area: Ceuta
+- title: Clases de Baile Infantil
+  price: 35
+  area: Ceuta

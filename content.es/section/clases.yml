@@ -1,0 +1,18 @@
+name: Clases
+title: Clases
+subtitle: de baile
+box:
+  columns: 0
+  columns_min: 2
+  link: '#contacto'
+  label: Contacto
+  hs: 5
+boxes:
+- icon: dog
+  title: Bachata
+- icon: cat
+  title: Salsa en Línea
+- icon: rabbit
+  title: Salsa Cubana
+- icon: bird
+  title: Baile Infantil

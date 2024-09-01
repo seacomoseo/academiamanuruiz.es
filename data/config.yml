@@ -1,18 +1,14 @@
 langs:
 - lang: es
-  title: Tema SanSoul de Hugo EJEMPLO
-  description: SanSoul es el alma del tema Hugo de lorensansol con el que generar sitios web estáticos, puedes copiarlo y usarlo como quieras
+  title: Academia de Baile Manu Ruiz
+  description: La mejor academia de baile cerca de ti en Ceuta. 🪇 Clases de bachata, salsa en línea y cubana. ¡Para todos los niveles, adultos y niños!
   google_analytics: G-GCFKF2ZJV3
   menu:
     logo: base/logo.svg
-    title: SanSoul
-    subtitle: Hugo Theme
+    title: Academia
+    subtitle: Manu Ruiz
   legal:
-    name: ''
-    nif: ''
-    email: ''
-    location: ''
-- lang: en
-  title: SanSoul Hugo Theme EXAMPLE
-  description: SanSoul is the soul of lorensansol's Hugo theme with which to generate static websites, you can copy it and use it however you want
-  disabled: true
+    name: Lucio Manuel Lozano Ruiz
+    nif: 76087541-E
+    email: mnllznrz.mlr@gmail.com
+    location: Av. Compañía de Mar, 51001 Ceuta

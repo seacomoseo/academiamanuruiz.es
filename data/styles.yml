@@ -1,18 +1,18 @@
 icons:
-  type: solid
+  type: regular
   sharp: true
   emojis: ''
   emojis_default: false
 fonts:
   google: true
   base:
-    family: Montserrat
+    family: Barlow
     weight: 400
     bold: 0
     italic: false
     line_height: 1.25
   cursive:
-    family: Dancing Script
+    family: Halimun
     weight: 400
     bold: 0
     italic: false
@@ -20,8 +20,8 @@ fonts:
     size: 1
     top: 0
   title:
-    family: Montserrat
-    weight: 800
+    family: Barlow
+    weight: 700
     bold: 0
     italic: false
     line_height: 1.25
@@ -30,7 +30,7 @@ fonts:
   blockquote_cursive: true
 colors:
   main:
-    color: '#bdd5ea'
+    color: '#fff845'
     light: ''
     dark: ''
     contrast: text
@@ -40,7 +40,7 @@ colors:
     dark: ''
     contrast: all
   link:
-    color: '#fe5f55'
+    color: ''
     light: ''
     dark: ''
     contrast: text
@@ -48,19 +48,19 @@ colors:
     white: '#fff'
     light: '#eee'
     grey: '#767676'
-    dark: '#282525'
+    dark: '#272525'
     black: '#000'
 rounded:
-  radius: 0.33
+  radius: 1.33
   chamfer: true
 buttons:
   sides_round: false
   icon_circle: false
-  deep: true
-  outline: false
+  deep: false
+  outline: true
   font_main:
-    type: base
-    bold: true
+    type: title
+    bold: false
     uppercase: true
   font_alt:
     type: base
