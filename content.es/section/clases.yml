@@ -8,15 +8,17 @@ description: |
 box:
   columns: 0
   columns_min: 2
-  link: '#contacto'
-  label: Contacto
   hs: 5
 boxes:
-- icon: dog
+- icon: iconos-bachata
   title: Bachata
-- icon: cat
+  hanchor: Clases de Bachata en Ceuta
+- icon: iconos-salsa-linea
   title: Salsa en Línea
-- icon: rabbit
+  hanchor: Clase de Salsa en Línea en Ceuta
+- icon: iconos-salsa-cubana
   title: Salsa Cubana
-- icon: bird
+  hanchor: Clase de Salsa Cubana en Ceuta
+- icon: iconos-kids
   title: Baile Infantil
+  hanchor: Clase de Baile Infantil en Ceuta
