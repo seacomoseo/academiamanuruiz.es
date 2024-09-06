@@ -4,8 +4,8 @@ menu:
   logo: true
   logo_align: center
   color: dark
-  gradient: white
-  gradient_type: linear
+  # gradient: white
+  # gradient_type: linear
   transparent: true
   size: sm
 lists:

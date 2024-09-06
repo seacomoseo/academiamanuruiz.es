@@ -1,7 +1,7 @@
 ---
 title: Inicio
 slug: inicio
-image: base/icon.svg
+image: base/icon.png
 translationKey: home
 
 seo: Clases de Bachata y Salsa en Ceuta 💃🏻🕺🏻 Academia de Baile Manu Ruiz
@@ -30,9 +30,6 @@ section:
 - size: lg
   underline: true
   uppercase: true
-  # box_padding: 5
-  # box_gradient: dark
-  # box_gradient_type: radial-alt
 
 sections:
 - file: _header

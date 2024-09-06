@@ -6,12 +6,16 @@ size: xs
 align: center
 icon: crown
 # icon: iconos-bachata
-price: 35 €/mes
+price: 1ª clase gratis
 content: |
-  **==POR 8 CLASES/SEMANA==**
+  Escríbeme al WhatsApp con el texto
 
-  ¡4 veces más de lo que te gusta por el mismo precio!
+  **==CLASE GRATIS==**
 
-  **SOLO ESTE MES DE ==icon:sign-circle SEPTIEMBRE==**
+  para canjear
 
-  [btn icon:check ¡Lo quiero!](#contacto)
+  [btn:whatsapp icon:whatsapp ¡Quiero una clase gratis!](https://wa.me/34744733534?text=CLASE%20GRATIS "nofollow")
+
+# **SOLO ESTE MES DE ==icon:sign-circle SEPTIEMBRE==**
+
+# [btn icon:check ¡Lo quiero!](#contacto)
