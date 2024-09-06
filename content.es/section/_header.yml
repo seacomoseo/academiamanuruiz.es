@@ -6,6 +6,7 @@ pt: 6
 box:
   columns: 3
   gap: 5
+  align_y: center
 boxes:
 - span: 1.2
   span_min: .66
