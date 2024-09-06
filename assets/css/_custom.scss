@@ -1,20 +1,34 @@
-#body-inicio .menu {
+// Fix menu transparent shadow
+#body-home .menu {
   filter: drop-shadow($shadow);
 }
 
-#body-inicio #header {
+// Header
+#body-home #header {
+  // Animations
   @mixin show-from($delay) { animation: show-from .5s (.5 + .25s * $delay) both; }
   .image                   { @include show-from(0); --show-from: scale(3); }
   .box__title              { @include show-from(1); }
   .subtitle                { @include show-from(2); }
-  .description p           { @include show-from(3); }
-  .description .buttons    { @include show-from(4); }
+  .content .buttons        { @include show-from(3); }
+  .box--2                  { @include show-from(4); }
+  // Sepia images
+  --hue: #{ hue($main) };
+  --grayscale: sepia(1) hue-rotate(calc(var(--hue) - 43deg)) saturate(2);
+}
 
-  .image path {
-    fill: var(--text);
+// Hours table adjust
+#horarios {
+  table {
+    @include font-base-bold;
+  }
+  tr:not(:first-child) td:first-child {
+    width: 5em;
+    display: block;
   }
 }
 
+// Transparent gradient in teacher image
 #profesor .image__inner img {
   --mask-image: linear-gradient(#000 95%, transparent);
   -webkit-mask-image: var(--mask-image);

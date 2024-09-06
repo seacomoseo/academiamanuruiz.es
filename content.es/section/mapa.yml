@@ -4,4 +4,6 @@ menu_button: hide
 ph: true
 size: fluid
 color: dark
-map: Clases de Bachata y Salsa Botánico Av. Compañía de Mar, 51001 Ceuta
+map:
+  image: mapa.png
+  anchor: Clases de Bachata y Salsa Botánico Av. Compañía de Mar, 51001 Ceuta

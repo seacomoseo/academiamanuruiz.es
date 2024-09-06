@@ -2,3 +2,49 @@ name: Vídeos
 title: Vídeos
 subtitle: de nuestras clases
 
+box:
+  columns: 4
+  # card: true
+  # label: Ver en instagram
+  # licon: instagram
+  ratio: 9x16
+  button: hide
+  grayscale: true
+  slider: true
+  interval: 8
+boxes:
+
+- image: https://scontent-mad2-1.cdninstagram.com/v/t51.29350-15/417827017_1510676323088961_2115047290574942010_n.jpg?stp=cmp1_dst-jpg_s640x640&_nc_cat=110&ccb=1-7&_nc_sid=18de74&_nc_ohc=hAABPV0YU1oQ7kNvgGvAJ55&_nc_ht=scontent-mad2-1.cdninstagram.com&_nc_gid=AAIHuF6BMaAd0r__fdYsYyP&oh=00_AYAViT9nyUKhqAIutIy0eEa5AJKLNLQp1DTS09ATIgs1IA&oe=66E0059E
+  link: https://www.instagram.com/reel/Cx7u0sloIbU/
+- image: https://scontent-mad2-1.cdninstagram.com/v/t51.29350-15/419554468_334712932865841_4710547674686939805_n.jpg?stp=cmp1_dst-jpg_s640x640&_nc_cat=109&ccb=1-7&_nc_sid=18de74&_nc_ohc=B__AppyhSLoQ7kNvgHO4LbF&_nc_ht=scontent-mad2-1.cdninstagram.com&_nc_gid=A7vw3TSOf6JjZcV31nmqpfe&oh=00_AYCa_mk1QWGQ55MK6T61JXQiosWs2tU1aFuUey7MB9hXog&oe=66DFF81A
+  link: https://www.instagram.com/reel/C2PZqgtIgCi/
+- image: https://scontent-mad1-1.cdninstagram.com/v/t51.29350-15/420058119_886207793000452_3362226864640425224_n.jpg?stp=cmp1_dst-jpg_s640x640&_nc_cat=106&ccb=1-7&_nc_sid=18de74&_nc_aid=0&_nc_ohc=wkkgax_CcdoQ7kNvgG0P0ew&_nc_ht=scontent-mad1-1.cdninstagram.com&oh=00_AYAFyEIAu_5FAvrsvirtvg5ZA2WQVKHV6n3233eDbba4Aw&oe=66E01AC7
+  link: https://www.instagram.com/reel/C2PbpsOImzg/
+- image: https://scontent-mad1-1.cdninstagram.com/v/t51.29350-15/424957012_1463815010870800_3958765198311214942_n.jpg?stp=cmp1_dst-jpg_s640x640&_nc_cat=101&ccb=1-7&_nc_sid=18de74&_nc_ohc=82ppnnWaYFoQ7kNvgGmfRaG&_nc_ht=scontent-mad1-1.cdninstagram.com&oh=00_AYCO0tMD8g079qJiJ_7Xk-KgJAsMY0qb5YXZbDAP82iSGQ&oe=66DFE5CC
+  link: https://www.instagram.com/reel/C21_t-ysEau/
+- image: https://scontent-mad1-1.cdninstagram.com/v/t51.29350-15/424836577_277067175398166_7679020935100573316_n.jpg?stp=cmp1_dst-jpg_s640x640&_nc_cat=103&ccb=1-7&_nc_sid=18de74&_nc_ohc=MPskctvmkmkQ7kNvgG4MyQR&_nc_ht=scontent-mad1-1.cdninstagram.com&oh=00_AYCHwKtN64OZaIhFsvFiMth0lHkfNDEgu5Z_r0scUyTBOw&oe=66DFE63A
+  link: https://www.instagram.com/reel/C2411HasyV8/
+- image: https://scontent-mad2-1.cdninstagram.com/v/t51.29350-15/425316076_234185913088305_5840031883805557669_n.jpg?stp=cmp1_dst-jpg_s640x640&_nc_cat=104&ccb=1-7&_nc_sid=18de74&_nc_ohc=oEb7cMlKemUQ7kNvgGa4ll0&_nc_ht=scontent-mad2-1.cdninstagram.com&_nc_gid=AWfMHqbYOi_IsDTdo6O-3GE&oh=00_AYBWnkqUqooLZ-Yleirv_98CcTUYLx0YQcFDoc4QgavutA&oe=66E00936
+  link: https://www.instagram.com/reel/C29otx0saui/
+- image: https://scontent-mad2-1.cdninstagram.com/v/t51.29350-15/430817606_725770916205285_7154848344437647095_n.jpg?stp=cmp1_dst-jpg_s640x640&_nc_cat=108&ccb=1-7&_nc_sid=18de74&_nc_ohc=AqRU082azTUQ7kNvgFvMKVG&_nc_ht=scontent-mad2-1.cdninstagram.com&oh=00_AYBuhblGoltedmQ6DHuLIxG3sb3eUNqFC2x8-kzWz8NZag&oe=66E0099E
+  link: https://www.instagram.com/reel/C3QVPEPMr6C/
+- image: https://scontent-mad1-1.cdninstagram.com/v/t51.29350-15/430002366_1162052201705215_4280778636066071951_n.jpg?stp=cmp1_dst-jpg_s640x640&_nc_cat=107&ccb=1-7&_nc_sid=18de74&_nc_ohc=HcdvliZjmBkQ7kNvgG55YYS&_nc_ht=scontent-mad1-1.cdninstagram.com&oh=00_AYDITltmrzmMET5i-XE66lSsXQGg_yZpSftedij0Ab5BIA&oe=66DFE7E9
+  link: https://www.instagram.com/reel/C35sc-4sym0/
+- image: https://scontent-mad1-1.cdninstagram.com/v/t51.29350-15/431329598_1578254189597600_6958910256381706628_n.jpg?stp=cmp1_dst-jpg_s640x640&_nc_cat=107&ccb=1-7&_nc_sid=18de74&_nc_ohc=roUuqpWNjsYQ7kNvgEUKUqN&_nc_ht=scontent-mad1-1.cdninstagram.com&oh=00_AYBMw_DV6fA1D4nbVtzm0qcqAPyeAlf_pYkqABtHjb4EJA&oe=66DFFC29
+  link: https://www.instagram.com/reel/C4BIm96Mopb/
+- image: https://scontent-mad2-1.cdninstagram.com/v/t51.29350-15/434579572_1254998265479049_2977161421102692066_n.jpg?stp=cmp1_dst-jpg_s640x640&_nc_cat=110&ccb=1-7&_nc_sid=18de74&_nc_ohc=5LlXSwUaiy4Q7kNvgGjVG2I&_nc_ht=scontent-mad2-1.cdninstagram.com&_nc_gid=A1-gFi_5-gL0gOLiHN6P9sW&oh=00_AYAj-FNcYsrCr-on0dlOmMWesgEyQcKvi_Y8nN0whR8UMQ&oe=66E01015
+  link: https://www.instagram.com/reel/C5BE2oJs8u0/
+- image: https://scontent-mad1-1.cdninstagram.com/v/t51.29350-15/438626982_1477833926491265_6056559695040927592_n.jpg?stp=cmp1_dst-jpg_s640x640&_nc_cat=103&ccb=1-7&_nc_sid=18de74&_nc_ohc=5z7_f6o4bBkQ7kNvgHufbSV&_nc_ht=scontent-mad1-1.cdninstagram.com&_nc_gid=AlCkaO1PxwKs-av-4NTTAdA&oh=00_AYAFVCTpe_R-Jss3o3REEPxS4DNE6UP2j8A07yTui2jfDg&oe=66DFF69B
+  link: https://www.instagram.com/reel/C52mNbLstoM/
+
+- image: https://scontent-mad2-1.cdninstagram.com/v/t51.29350-15/458158230_526536890032605_5079120630241279183_n.jpg?stp=cmp1_dst-jpg_s640x640&_nc_cat=108&ccb=1-7&_nc_sid=18de74&_nc_ohc=PWsOq-eM31EQ7kNvgG_dVc0&_nc_ht=scontent-mad2-1.cdninstagram.com&_nc_gid=AtW0dht80OjNrnGzcBNryQZ&oh=00_AYA1Banw0ES83wA7xBPVO-E4fEgEg5YvCvPzm1LO7sWJPQ&oe=66E0082D
+  link: https://www.instagram.com/reel/C_dM6T2M-ia/
+- image: https://scontent-mad2-1.cdninstagram.com/v/t51.29350-15/448609145_1039963177652203_1050531109442542969_n.jpg?stp=cmp1_dst-jpg_s640x640&_nc_cat=104&ccb=1-7&_nc_sid=18de74&_nc_ohc=xgdr57xrsoMQ7kNvgEdTI_K&_nc_ht=scontent-mad2-1.cdninstagram.com&oh=00_AYAg2HRiqG0fc98P-uOMMXZt38bbtQXOLDmmdnkQy4JEMQ&oe=66DFED7B
+  link: https://www.instagram.com/reel/C8bUffQC0mq/
+- image: https://scontent-mad1-1.cdninstagram.com/v/t51.29350-15/447858587_478997527822312_8185393075742557725_n.jpg?stp=cmp1_dst-jpg_s640x640&_nc_cat=102&ccb=1-7&_nc_sid=18de74&_nc_ohc=7BZaJMJUpzUQ7kNvgGU0fW0&_nc_ht=scontent-mad1-1.cdninstagram.com&oh=00_AYCd5SsexJ943CanZqq6orheMe4fyQrHm_hSnXk1hmPB0Q&oe=66E01954
+  link: https://www.instagram.com/reel/C754enpsTuX/
+- image: https://scontent-mad2-1.cdninstagram.com/v/t51.29350-15/447913041_1467889050503009_1292682677413394371_n.jpg?stp=cmp1_dst-jpg_s640x640&_nc_cat=110&ccb=1-7&_nc_sid=18de74&_nc_ohc=8oCRD2E2P-cQ7kNvgFCG7vr&_nc_ht=scontent-mad2-1.cdninstagram.com&oh=00_AYAPL0m7jiC_EoPf2UKqWMUvQ2eYLuS_36lo6NRDKKSszQ&oe=66E00EE5
+  link: https://www.instagram.com/reel/C71bML0iS7U/
+
+- image: https://scontent-mad1-1.cdninstagram.com/v/t51.36329-15/380567976_816149853583984_9033363962775979617_n.jpg?stp=cmp1_dst-jpg_s640x640&_nc_cat=103&ccb=1-7&_nc_sid=18de74&_nc_ohc=gacgKKoBRxIQ7kNvgFSGOxj&_nc_ht=scontent-mad1-1.cdninstagram.com&_nc_gid=ADDNPKoI7jaIqMre2L2sqNw&oh=00_AYDhWxjIDbwXr0Rfe9QEk3LZqaIeY2suoRFUG6trfoRDvA&oe=66DFE4CA
+  link: https://www.instagram.com/reel/CxarapYMCQg/

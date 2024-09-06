@@ -21,10 +21,18 @@ menu:
   show_modals: true
 callnow:
   show: auto
+modal:
+  color: dark
+  icon_type: top
+  underline: true
+  uppercase: true
 section:
 - size: lg
   underline: true
   uppercase: true
+  # box_padding: 5
+  # box_gradient: dark
+  # box_gradient_type: radial-alt
 
 sections:
 - file: _header
@@ -36,6 +44,8 @@ sections:
 - file: resenas
 - file: contacto
 - file: mapa
+  modals:
+  - file: promocion
 
 base: organization
 types:
@@ -59,7 +69,7 @@ social:
 phones:
 - 744 733 534
 address:
-  name: Sea Como SEO
+  name: Clases de Bachata y Salsa Botánico
   street: Av. Compañía de Mar
   pc: '51001'
   locality: Ceuta

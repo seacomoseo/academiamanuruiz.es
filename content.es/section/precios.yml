@@ -1,3 +1,24 @@
 name: Precios
 title: Precios
 subtitle: tarifas
+size: sm
+
+box:
+  columns: 2
+  align_y: top
+  # columns_min: 2
+  # hs: 5
+  # color: dark
+boxes:
+- icon: star
+  title: Estandar
+  price: 35 €/mes
+  content: |
+    2 clases/semana
+- icon: crown
+  title: Promoción
+  price: 35 €/mes
+  content: |
+    ==icon:sign-simple 8 clases/semana==
+
+    **¡Solo en septiembre!**

@@ -1,6 +1,7 @@
 name: Reseñas
 title: Reseñas
 subtitle: de nuestros alumnos
+
 review:
   columns: 3
   color: dark
@@ -8,29 +9,103 @@ review:
   slider: true
   interval: 8
 reviews:
-- title: Lorem I.
-  description: |
-    Sed ut perspiciatis unde omnis iste natus error sit voluptatem.
 
-    Accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab.
+- title: Natasha A.
+  content: |
+    Clases IMPRESIONANTES.
 
-    Illo inventore veritatis et quasi architecto beatae vitae dicta sunt.
+    Llegué a Ceuta hace unos meses y no esperaba mucho nivel, viniendo de las clases que he recibido en Francia y en Madrid.
 
-    Explicabo.
-- title: Sequi N.
-  description: |
-    Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut.
+    Manu es el mejor profesor que he tenido en los dos años que llevo bailando.
 
-    Fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem.
+    Cuida muchísimo la técnica, así como la conexión, adapta las figuras a las lesiones de cada alumno y enseña con muchísima paciencia.
 
-    Sequi nesciunt.
-- title: Quaerat V.
-  description: |
-    Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet,.
+    En muy pocos meses me ha corregido muchísimos errores y me ha dado una confianza en mi forma de bailar que me permite adaptarme a cualquier líder.
 
-    Consectetur, adipisci velit, sed quia non numquam eius modi tempora.
+    En cuanto a las clases, solo puedo decir que son inmejorables.
 
-    Incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+    Todo lo que aprendemos se puede utilizar en los sociales y ha conseguido crear una ambiente increíble entre todos sus alumnos.
+
+    Es más, tras las clases siempre nos vamos de cena para disfrutar de más momentos juntos.
+
+    Lo único que puedo decir es que es una gran familia 💕
+  rating: 5
+  image: https://lh3.googleusercontent.com/a/ACg8ocLYHM5kn5HrdHMtDfT8gqmotgMVDfvl47yapbWBSKCUL0Qf3g=s136
+- title: Am V.
+  content: |
+    Actualmente es el mejor sitio para aprender a bailar de la ciudad.
+
+    Ya en la primera clase te das cuenta de que es un profesor con muchos años de experiencia, insiste mucho en la técnica para que aprendamos correctamente y además tiene un estilo único.
+
+    Lo recomiendo sin duda 👍🏻👍🏻…
+  rating: 5
+  image: https://lh3.googleusercontent.com/a-/ALV-UjV9Nk45qh0NiikDJTukkHrHx1GhMc-uTdL-f9FX_Sn4SznpbDU=s136
+- title: C G.
+  content: |
+    Recomemdables al 100%,por muchas razones, a destacar, no te enseña una figura y fin, te enseña la tecnica de cada movimiento, tanto en salsa como en bachata.
+
+    Recomiendo que si vienes de nivel medio, vayas tambien al nivel inicio, porque aprendes muchísimo en todos los niveles, combinando profesionalidad y diversión.
+
+    Además, este sitio es genial, porque conforme vas avanzando de nivel, puedes bailar mas horas (mas de los que tus pies pueden aguantar jjjj), practicamente todos los dias de la semana y todo por el mismo precio que el inicial.
+
+    El ambiente es inmejorable,y si aun no te has cansado de danzar, despues de clase siempre hay planes em grupo.
+
+    Y por último, ver a Manu bailar es un espectaculo, y ya solo por eso merece la pena ir a sus clases.
+  rating: 5
+  image: https://lh3.googleusercontent.com/a/ACg8ocI6cjNXDyyw5pSwGHuO2Fi_xOFgWG4zc0f2CDe_wfqjVmgx-Q=s136
+- title: Montserrat F.
+  content: |
+    Muy buen ambiente que te hace  desconectar de los problemas y salir como nuevo.
+
+    Las clases muy profesionales y amenas tanto en Salsa como en Bachata ♥️ Recomiendo el vivir esta gran experiencia ♥️ Al final te encuentras con una gran familia ♥️
+  rating: 5
+  image: https://lh3.googleusercontent.com/a/ACg8ocLIbgudhO71R5gMWS9HPiRNLmMQYxd2tGuaG2SillpjNC-ezLM=s136
+- title: Julia B.
+  content: |
+    Las clases de Manu son muy recomendables, es muy profesional, ni que decir del ambiente es muy familiar te sientes muy agusto.
+
+    El mejor sitio para aprender bachata y salsa sin duda 🥰…
+  rating: 5
+  image: https://lh3.googleusercontent.com/a/ACg8ocLpvbgBGsOl57pvjFTvc9IrBfy7fmaf4ckQM75DjrUg4QGi3Q=s136
+- title: Expedito M.
+  content: |
+    Muy recomendable, ambiente estupendo y metodo de clases muy efectivo, el sitio, el Botánico, muy bonito también y todos los Domingo tambien sociales, lo seguiremos disfrutando.
+  rating: 5
+  image: https://lh3.googleusercontent.com/a/ACg8ocL04ZdEYJ2vRvuJ-jKX5i9CnyLiJcCmQOzsO9lLy7Sv1Tllvw=s136
+- title: Nicole M.
+  content: |
+    Clases súper dinámicas con un profe top, 100% recomendado ..
+
+    soy latina y llegué desde Marruecos buscando el mejor lugar para bailar salsa y bachata, puedo decir que encontré el lugar ideal, con las mejores personas y una gran vibra por parte de todos 💃🏽🕺🏽…
+  rating: 5
+  image: https://lh3.googleusercontent.com/a/ACg8ocJbvN9BN5fqUJT0EUaePEAy93ws14f52d2KvewRXKff0XjE=s136
+- title: Yolanda M.
+  content: |
+    Sus clases son un soplo de aire fresco.
+
+    Son clases muy amenas y divertidas y siempre aprendemos cosas nuevas.
+
+    Gracias Manu y a seguir luchando 😘…
+  rating: 5
+  image: https://lh3.googleusercontent.com/a-/ALV-UjW5NbsGS9FdsgQmdk74fN_iKIl-ccKTpg1Tek3jYklmy8tYb-jI=s136
+- title: Paula S.
+  content: |
+    Se aprende súper rápido en las clases el ambiente y sitio son muy buenos y tenemos al mejor profe!!🥰…
+  rating: 5
+  image: https://lh3.googleusercontent.com/a/ACg8ocKcZGbBBpq4ygLOfVwX2unX4WePuDqBxwzIK_mql7TqR8pcVQ=s136
+- title: G G.
+  content: |
+    La salsa como hacía tiempo q no veía, innovadora y fuerte como a mi me gusta
+  rating: 5
+  image: https://lh3.googleusercontent.com/a/ACg8ocKyjyaUk1TYPQsZN7nJCE11Ts7UV18bVH8-rtUoKboa79Jr5Q=s136
+- title: Lucia R.
+  content: |
+    Clases increíbles y un grupo de personas geniales.
+
+    Buen aparcamiento
+  rating: 5
+  image: https://lh3.googleusercontent.com/a/ACg8ocLSlnqtJKsGf4pvoo62BtvDD4d7g4b05OyE_EjresdXDvOHDg=s136
+
 boxes:
-- description: |
-    [btn icon-google Más en Google](https://g.page/r/CafZvI4bJRWJEBM/review "noindex")
+- content: |
+    [btn icon:google Más en Google](https://g.page/r/CafZvI4bJRWJEBM/review "noindex")

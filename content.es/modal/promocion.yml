@@ -1,0 +1,17 @@
+name: Promoción
+title: Promoción
+bg: manu-ruiz.png
+alpha: .5
+size: xs
+align: center
+icon: crown
+# icon: iconos-bachata
+price: 35 €/mes
+content: |
+  **==POR 8 CLASES/SEMANA==**
+
+  ¡4 veces más de lo que te gusta por el mismo precio!
+
+  **SOLO ESTE MES DE ==icon:sign-circle SEPTIEMBRE==**
+
+  [btn icon:check ¡Lo quiero!](#contacto)
