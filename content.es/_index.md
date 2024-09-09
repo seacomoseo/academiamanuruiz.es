@@ -18,7 +18,6 @@ menu:
   sticky: auto
   size: sm
   show_sections: true
-  show_modals: true
 callnow:
   show: auto
 modal:
@@ -37,12 +36,12 @@ sections:
 - file: videos
 - file: horarios
 - file: precios
+  modals:
+  - file: promocion
 - file: profesor
 - file: resenas
 - file: contacto
-- file: mapa
-  modals:
-  - file: promocion
+# - file: mapa
 
 base: organization
 types:
@@ -57,6 +56,7 @@ names:
 - Clases de Salsa en Ceuta
 legal: Lucio Manuel Lozano Ruiz
 nif: 76087541-E
+email: mnllznrz.mlr@gmail.com
 summary: La mejor academia de baile cerca de ti en Ceuta. 🪇 Clases de bachata, salsa en línea y cubana. ¡Para todos los niveles, adultos y niños!
 logo: base/icon.svg
 images: []

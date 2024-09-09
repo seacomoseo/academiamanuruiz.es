@@ -13,8 +13,8 @@
   .content .buttons        { @include show-from(3); }
   .box--2                  { @include show-from(4); }
   // Sepia images
-  --hue: #{ hue($main) };
-  --grayscale: sepia(1) hue-rotate(calc(var(--hue) - 43deg)) saturate(2);
+  // --hue: #{ hue($main) };
+  // --grayscale: sepia(1) hue-rotate(calc(var(--hue) - 43deg)) saturate(2);
 }
 
 // Hours table adjust
@@ -22,10 +22,13 @@
   table {
     @include font-base-bold;
   }
-  tr:not(:first-child) td:first-child {
-    width: 5em;
-    display: block;
+  td {
+    @include fluid-size(font-size, 1em, .7, 1.2);
   }
+  // tr:not(:first-child) td:first-child {
+  //   width: 7em;
+  //   display: block;
+  // }
 }
 
 // Transparent gradient in teacher image

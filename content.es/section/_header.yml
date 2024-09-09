@@ -17,8 +17,7 @@ boxes:
   subtitle: Academia de Baile
   content: |
     [btn icon:plus Más](#clases)
-- image: clases-de-bachata-y-salsa.jpg
-  # image: https://scontent-mad2-1.cdninstagram.com/v/t51.29350-15/420671158_896167515501249_641602549010650734_n.jpg?stp=cmp1_dst-jpg_s640x640&_nc_cat=104&ccb=1-7&_nc_sid=18de74&_nc_ohc=PJXvO77T7hYQ7kNvgEyFN3j&_nc_ht=scontent-mad2-1.cdninstagram.com&oh=00_AYDhGkL7l6Wn8dm0WBXAHvz5BO86S7r1jeqkj9yQagCIHw&oe=66E01A15
-  link: https://www.instagram.com/reel/C2fCLlYIsS4/
+- image: videos/clases-de-bachata-y-salsa-en-ceuta.webm#mute
+  link: '#videos'
   button: hide
-  grayscale: true
+  # grayscale: true

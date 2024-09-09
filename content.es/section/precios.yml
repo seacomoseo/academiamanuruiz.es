@@ -7,7 +7,7 @@ box:
   columns: 2
   align_y: top
   # columns_min: 2
-  # hs: 5
+  hs: 5
   # color: dark
 boxes:
 - icon: star
@@ -17,8 +17,6 @@ boxes:
     2 clases/semana
 - icon: crown
   title: Promoción
-  price: 35 €/mes
-  content: |
-    ==icon:sign-simple 8 clases/semana==
-
-    **¡Solo en septiembre!**
+  price: 1ª clase gratis
+  link: '#promocion'
+  label: info

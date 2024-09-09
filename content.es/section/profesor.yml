@@ -5,10 +5,12 @@ box:
   columns: 0
   gap: 5
 boxes:
-- order: 2
+- span: .4
+  order: 2
   image: manu-ruiz.png
   parallax: box
-- order: 1
+- span: .6
+  order: 1
   align: left
   align_max: right
   align_y: center

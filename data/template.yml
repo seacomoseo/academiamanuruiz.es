@@ -4,10 +4,13 @@ menu:
   logo: true
   logo_align: center
   color: dark
-  # gradient: white
-  # gradient_type: linear
+  gradient: black
   transparent: true
   size: sm
+  es:
+    image: base/logo.svg
+    title: Academia
+    subtitle: Manu Ruiz
 lists:
   columns: 3
   declive: true
