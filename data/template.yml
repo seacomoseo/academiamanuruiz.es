@@ -11,7 +11,7 @@ menu:
     image: base/logo.svg
     title: Academia
     subtitle: Manu Ruiz
-lists:
+list:
   columns: 3
   declive: true
   ratio: 16x9
