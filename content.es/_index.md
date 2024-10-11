@@ -76,7 +76,7 @@ address:
   link: https://g.page/r/CafZvI4bJRWJEBM
 areas:
 - Ceuta
-open:
+schedule:
 - days:
   - monday
   - tuesday
@@ -85,8 +85,9 @@ open:
   - friday
   - saturday
   - sunday
-  opens: 10:00
-  closes: 22:00
+  hours:
+  - open: 10:00
+    close: 22:00
 prices: €€
 services:
 - title: Clases de Bachata
