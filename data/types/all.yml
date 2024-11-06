@@ -1,0 +1,38 @@
+title: Todas
+template:
+  background:
+    color: dark
+  menu:
+    logo: true
+    logo_align: center
+    color: dark
+    gradient: black
+    transparent: true
+    size: sm
+    es:
+      image: base/logo.svg
+      title: Academia
+      subtitle: Manu Ruiz
+  callnow: {}
+  section:
+  - size: sm
+  modal: {}
+  sections:
+  - file: base/_header
+  - file: base/toc
+  - file: base/content
+  - file: base/place
+  - file: base/author
+  - file: base/social
+  - file: base/comments
+  - file: base/children
+  - file: base/share
+  - file: base/related
+  list:
+    columns: 3
+    declive: true
+    ratio: 16x9
+    inset: true
+    align: left
+    color: white
+    button: hide
