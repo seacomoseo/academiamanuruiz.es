@@ -46,8 +46,7 @@ boxes:
     required: true
 - span: .4
   hanchor: Academia de baile con clases de salsa y bachata cerca
-  bg: mapa.png
-  link: '{{% address-url %}}'
-  ofuscate: true
-  rate: 1x1
-  button: hide
+  rate: 1/1
+  map:
+  - type: point
+    geo: '{"type":"Point","coordinates":[-5.311795,35.888918]}'

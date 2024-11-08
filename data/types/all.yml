@@ -31,7 +31,7 @@ template:
   list:
     columns: 3
     declive: true
-    ratio: 16x9
+    ratio: 16/9
     inset: true
     align: left
     color: white

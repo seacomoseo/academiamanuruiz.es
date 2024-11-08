@@ -4,7 +4,7 @@ subtitle: de nuestras clases
 
 box:
   columns: 4
-  ratio: 9x16
+  ratio: 9/16
   button: hide
   # grayscale: true
   slider: true
