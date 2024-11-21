@@ -9,6 +9,8 @@ box:
   columns: 0
   columns_min: 2
   hs: 5
+  uppercase: true
+  underline: true
 boxes:
 - icon: iconos-bachata
   title: Bachata

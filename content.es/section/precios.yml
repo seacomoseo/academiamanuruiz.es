@@ -8,6 +8,8 @@ box:
   align_y: top
   # columns_min: 2
   hs: 5
+  uppercase: true
+  underline: true
   # color: dark
 boxes:
 - icon: star
