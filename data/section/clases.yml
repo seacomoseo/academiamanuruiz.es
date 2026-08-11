@@ -1,0 +1,27 @@
+name: Clases
+boxes:
+- title: Clases
+  sub: de baile
+  md: |
+    Para adultos, principiantes, en pareja... ¡Y también para el resto!
+
+    Todo el mundo puede aprender a bailar salsa y bachata
+  box:
+    cols: 0
+    cols_vs: 2
+    hs: 5
+    caps: true
+    line: true
+  boxes:
+  - icon: svg:bachata
+    title: Bachata
+    hanchor: Clases de Bachata en Ceuta
+  - icon: svg:salsa-linea
+    title: Salsa en Línea
+    hanchor: Clase de Salsa en Línea en Ceuta
+  - icon: svg:salsa-cubana
+    title: Salsa Cubana
+    hanchor: Clase de Salsa Cubana en Ceuta
+  - icon: svg:kids
+    title: Baile Infantil
+    hanchor: Clase de Baile Infantil en Ceuta

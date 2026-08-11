@@ -1,10 +1,12 @@
 icons:
-  type: regular
-  sharp: true
-  emojis: ''
-  emojis_default: false
+  fill: false
+  weight: 500
+  grade: 0
+  optical: 24
+  style: sharp
+  def:
+    play: svg:youtube-iframe
 fonts:
-  google: true
   base:
     family: Barlow
     weight: 400
@@ -18,7 +20,6 @@ fonts:
     italic: false
     line_height: 1.25
     size: 1
-    top: 0
   title:
     family: Barlow
     weight: 700
@@ -26,53 +27,60 @@ fonts:
     italic: false
     line_height: 1.25
     size: 1
-    top: 0
   blockquote_cursive: true
 colors:
   main:
     color: '#fff845'
-    light: ''
-    dark: ''
-    contrast: text
+    light: '#ffffff'
+    dark: '#ffffff'
+    turn:
+      fill: false
+      in: true
+      text: true
   alt:
-    color: ''
-    light: ''
-    dark: ''
-    contrast: all
-  link:
-    color: ''
-    light: ''
-    dark: ''
-    contrast: text
+    color: '#ffffff'
+    light: '#ffffff'
+    dark: '#ffffff'
+    turn:
+      fill: true
+      in: true
+      text: true
+  cta:
+    color: '#ffffff'
+    light: '#ffffff'
+    dark: '#ffffff'
+    turn:
+      fill: false
+      in: true
+      text: true
   base:
-    white: '#fff'
-    light: '#eee'
-    grey: '#767676'
+    white: '#ffffff'
+    light: '#eeeeee'
+    gray: '#767676'
     dark: '#272525'
-    black: '#000'
+    black: '#000000'
 rounded:
   radius: 1.33
   chamfer: true
-buttons:
-  sides_round: false
-  icon_circle: false
+btns:
+  pill: false
+  disc: false
   deep: false
   outline: true
-  font_main:
+  font:
     type: title
     bold: false
-    uppercase: true
-  font_alt:
+    caps: true
+  swap:
     type: base
     bold: false
-    uppercase: false
+    caps: false
 inputs:
   fill: false
+  labels: in
 shadow:
   left: 0.15
   top: 0.15
   blur: 0
   color: black
   alpha: 0.85
-performance:
-  show: true

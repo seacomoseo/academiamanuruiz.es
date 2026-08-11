@@ -1,0 +1,48 @@
+name: Contacto
+menu_btn: cta
+size: lg
+boxes:
+- title: Contacto
+  sub: sin compromiso
+  box:
+    gap: 3
+    gap_ny: 3
+  boxes:
+  - fit: 0.6
+    when:
+    - days: Lunes a Domingos
+      hours: 10:00 - 22:00
+      full: true
+    links:
+    - type: phone
+      label: 744 733 534
+    - type: whatsapp
+      label: 744 733 534
+    - type: custom
+      label: '@manuruiz.oficial'
+      url: https://www.instagram.com/manuruiz.oficial/
+      icon: brand:instagram
+      lock: true
+      swap: true
+    - type: address
+      label: Av. Compañía de Mar, 51001 Ceuta
+      anchor: Clases de Bachata y Salsa Botánico Av. Compañía de Mar, 51001 Ceuta
+      btn: turn
+    inputs:
+    - type: text
+      name: Nombre
+      req: true
+    - type: phone
+      name: Teléfono
+    - type: mail
+      name: Email
+      req: true
+    - type: area
+      name: Mensaje
+      req: true
+  - fit: 0.4
+    hanchor: Academia de baile con clases de salsa y bachata cerca
+    rate: 1/1
+    geos:
+    - type: point
+      geo: '{"type":"Point","coordinates":[-5.311795,35.888918]}'

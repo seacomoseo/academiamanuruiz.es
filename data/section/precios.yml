@@ -1,0 +1,44 @@
+name: Precios
+size: sm
+boxes:
+- title: Precios
+  sub: tarifas
+  box:
+    cols: 2
+    align_y: top
+    hs: 5
+    caps: true
+    line: true
+  boxes:
+  - icon: star
+    title: Estandar
+    price: 35 €/mes
+    md: |
+      2 clases/semana
+  - icon: crown
+    title: Promoción
+    price: 1ª clase gratis
+    url: '#promocion'
+    label: info
+modal:
+  color: dark
+  icon_pos: top
+  line: true
+  caps: true
+modals:
+- id: promocion
+  title: Promoción
+  bi: /u/manu-ruiz.png
+  alpha: 0.5
+  size: xs
+  align: center
+  icon: crown
+  price: 1ª clase gratis
+  md: |
+    Escríbeme al WhatsApp con el texto
+
+    **==CLASE GRATIS==**
+
+    para canjear
+
+    [[::brand:whatsapp:: ¡Quiero una clase gratis!]](https://wa.me/34744733534?text=CLASE%20GRATIS "[nofollow whatsapp]")

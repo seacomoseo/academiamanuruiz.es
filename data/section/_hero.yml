@@ -1,0 +1,23 @@
+name: Hero
+full: true
+pt: 6
+boxes:
+- hanchor: Clases de Bachata y Salsa en Ceuta 💃🏻🕺🏻 Academia de Baile Manu Ruiz
+  box:
+    cols: 3
+    gap: 5
+    align_y: center
+  boxes:
+  - fit: 1.2
+    fit_vs: 0.66
+    img: /u/base/logo.svg
+    title: Clases de <br> Bachata y Salsa
+    hn: p
+    hs: 0.2
+    sub: Academia de Baile
+    md: |
+      [[::add:: Más]](#clases)
+  - vid: /u/videos/clases-de-bachata-y-salsa-en-ceuta.webm
+    mute: true
+    url: '#videos'
+    btn: hide

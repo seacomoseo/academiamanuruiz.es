@@ -1,0 +1,10 @@
+menu:
+  img: /u/base/logo.svg
+  title: Academia
+  sub: Manu Ruiz
+title: Valores Globales
+footer:
+  div: brush
+  color: black
+  fade: dark
+  fade_to: b

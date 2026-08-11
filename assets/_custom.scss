@@ -1,0 +1,42 @@
+@use 'css/variables';
+@use 'css/mixins';
+
+// Fix menu transparent shadow
+#body-home .menu {
+  filter: drop-shadow(variables.$shadow);
+}
+
+// Header
+#body-home #hero {
+  // Animations
+  @mixin show-from($delay) { animation: show-from .5s (0 + .125s * $delay) both; }
+  .img        { @include show-from(0); --show-from: scale(3); }
+  .box__title { @include show-from(1); }
+  .sub        { @include show-from(2); }
+  .md .btns   { @include show-from(3); }
+  .box--2     { @include show-from(4); }
+  // Sepia images
+  // --hue: #{ hue($main) };
+  // --gray: sepia(1) hue-rotate(calc(var(--hue) - 43deg)) saturate(2);
+}
+
+// Hours table adjust
+#horarios {
+  table {
+    @include mixins.font-base-bold;
+  }
+  td {
+    @include mixins.fluid-size(font-size, 1em, .7, 1.2);
+  }
+  // tr:not(:first-child) td:first-child {
+  //   width: 7em;
+  //   display: block;
+  // }
+}
+
+// Transparent gradient in teacher image
+#profesor .img__in img {
+  --mask-img: linear-gradient(#000 95%, transparent);
+  -webkit-mask-image: var(--mask-img);
+  mask-image: var(--mask-img);
+}

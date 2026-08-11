@@ -1,38 +1,33 @@
 title: Todas
-template:
-  background:
+tpl:
+  bg:
     color: dark
   menu:
     logo: true
     logo_align: center
     color: dark
-    gradient: black
-    transparent: true
+    fade: black
+    clear: true
     size: sm
-    es:
-      image: base/logo.svg
-      title: Academia
-      subtitle: Manu Ruiz
-  callnow: {}
+    hide_icons: true
   section:
   - size: sm
-  modal: {}
   sections:
-  - file: base/_header
-  - file: base/toc
-  - file: base/content
-  - file: base/address
-  - file: base/author
-  - file: base/social
-  - file: base/comments
-  - file: base/children
-  - file: base/share
-  - file: base/related
+  - file: base-_hero
+  - file: base-toc
+  - file: base-content
+  - file: base-address
+  - file: base-author
+  - file: base-social
+  - file: base-comments
+  - file: base-children
+  - file: base-share
+  - file: base-rel
   list:
-    columns: 3
-    declive: true
+    cols: 3
+    shade: true
     ratio: 16/9
     inset: true
     align: left
     color: white
-    button: hide
+    btn: hide

@@ -1,0 +1,17 @@
+name: Vídeos
+boxes:
+- title: Vídeos
+  sub: de nuestras clases
+  box:
+    cols: 4
+    ratio: 9/16
+    btn: hide
+    slider: true
+    time: 8
+  boxes:
+  - img: /u/videos/clases-de-salsa-y-bachata-en-ceuta.jpg
+    url: https://www.instagram.com/reel/C_dM6T2M-ia/
+  - img: /u/videos/clases-de-salsa-en-ceuta.jpg
+    url: https://www.instagram.com/reel/C8bUffQC0mq/
+  - img: /u/videos/clases-de-bachata-en-ceuta.jpg
+    url: https://www.instagram.com/reel/C89ShY-KUzO/

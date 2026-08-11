@@ -1,16 +1,18 @@
 {
   "name": "sansoul.es",
-  "version": "2.0.0",
+  "version": "7.0.0",
   "description": "SanSoul is the Hugo theme website services soul by lorensansol",
   "type": "module",
   "dependencies": {
-    "@fullhuman/postcss-purgecss": "^6.0.0",
-    "postcss": "^8.4.40",
-    "purgecss": "^6.0.0"
+    "material-symbols": "^0.34.1",
+    "@fortawesome/fontawesome-free": "^7.0.1",
+    "sass-embedded": "^1.100.0",
+    "sharp": "^0.35.3",
+    "sharp-ico": "^0.1.5"
   },
-  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "npx http-server public"
   },
   "repository": {
     "type": "git",
@@ -22,5 +24,20 @@
   "bugs": {
     "url": "https://github.com/seacomoseo/sansoul.es/issues"
   },
-  "homepage": "https://github.com/seacomoseo/sansoul.es"
+  "homepage": "https://github.com/seacomoseo/sansoul.es",
+  "standard": {
+    "env": [
+      "browser"
+    ],
+    "globals": [
+      "googleAnalytics",
+      "gtag",
+      "SimpleLightbox",
+      "MathJax",
+      "L",
+      "CMS",
+      "netlifyIdentity",
+      "h"
+    ]
+  }
 }

@@ -1,23 +1,23 @@
-title: Únicas
-order: 0
+title: Páginas Únicas
+weight: 0
 base: single
-template:
+tpl:
+  bg:
+    color: black
+    fade: dark
+    fade_to: rad-alt
+    bi: /u/fondo.svg
+    scroll: fix
   menu:
     logo: false
     sticky: auto
-    size: ''
-    show_sections: true
-    show_modals: true
-  callnow:
-    show: auto
+    size: md
+    auto: same
+  callnow: auto
   section:
-  - underline: true
-    uppercase: true
-    alpha: .7
-    parallax: fix
-    divider: curve-side
-    flip_x: false
-    flip_y: false
-  - color: white
-    flip_x: true
-    flip_y: true
+  - alpha: 0.7
+    scroll: fix
+    size: lg
+    box:
+      caps: true
+      line: true
