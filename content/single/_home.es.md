@@ -33,7 +33,11 @@ org:
   nif: 76087541-E
   mail: mnllznrz.mlr@gmail.com
   logo: /u/base/icon.svg
-  imgs: []
+  imgs:
+  - /u/manu-ruiz.png
+  - /u/videos/clases-de-salsa-y-bachata-en-ceuta.jpg
+  - /u/videos/clases-de-salsa-en-ceuta.jpg
+  - /u/videos/clases-de-bachata-en-ceuta.jpg
   as:
   - https://www.instagram.com/manuruiz.oficial/
   - https://g.page/r/CafZvI4bJRWJEBM

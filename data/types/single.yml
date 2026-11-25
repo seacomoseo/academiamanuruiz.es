@@ -1,6 +1,6 @@
 title: Páginas Únicas
-weight: 0
 base: single
+weight: 0
 tpl:
   bg:
     color: black
